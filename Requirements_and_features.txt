@@ -1,0 +1,9 @@
+Random Quotes Generator:
+
+1. User should be able to generate 1 or multiple random quotes (number to be defined by the user themselves)
+
+2. Use should be able to search for quotes using one of the following:
+    a. tags
+    b. author
+    c. query (part of a quote)
+
